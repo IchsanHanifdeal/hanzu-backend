@@ -70,4 +70,3 @@ Feel free to contribute to the project. Follow the [contribution guidelines](CON
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
